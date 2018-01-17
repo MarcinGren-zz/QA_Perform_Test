@@ -1,0 +1,5 @@
+Number of all partnership elements is: 11
+number of unique partnership names: 6
+failed while trying: J.League.svg
+['WTA_media_logo – Colour', 'FIBA_Media_Logo_One_Col_On_Light_RGB', 'nfl-200', 'laliga-transparent', 'CONMEBOL_logo_(2017).svg', 'J.League.svg']
+["(//div[@class='business-carousel-wrapper']//div[contains(@class, 'slide slick-slide') and (@data-slick-index>='0')])[1]//img", "(//div[@class='business-carousel-wrapper']//div[contains(@class, 'slide slick-slide') and (@data-slick-index>='0')])[2]//img", "(//div[@class='business-carousel-wrapper']//div[contains(@class, 'slide slick-slide') and (@data-slick-index>='0')])[3]//img", "(//div[@class='business-carousel-wrapper']//div[contains(@class, 'slide slick-slide') and (@data-slick-index>='0')])[4]//img", "(//div[@class='business-carousel-wrapper']//div[contains(@class, 'slide slick-slide') and (@data-slick-index>='0')])[5]//img", "(//div[@class='business-carousel-wrapper']//div[contains(@class, 'slide slick-slide') and (@data-slick-index>='0')])[6]//img"]
